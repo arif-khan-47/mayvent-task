@@ -3,6 +3,7 @@ import Layout from "@/components/Layout/Layout";
 import { useRouter } from "next/router";
 import jobs from "@/data/Jobs";
 import { IoMdCloudUpload } from "react-icons/io";
+import { toast } from "react-hot-toast";
 
 const SlugPage: React.FC = ({ job }: any) => {
   const router = useRouter();
@@ -39,6 +40,7 @@ const SlugPage: React.FC = ({ job }: any) => {
   const handleFormSubmit = (e: React.FormEvent) => {
     // e.preventDefault();
     console.log("name: ", name, 'email: ',email, 'address: ', address, 'isResumeUploaded ',isResumeUploaded);
+    toast.success('Form submitted successfully.')
   };
 
   return (
@@ -164,10 +166,10 @@ const SlugPage: React.FC = ({ job }: any) => {
 
                     <button
                       onClick={handleFormSubmit}
-                      className={`w-full hover:bg-black bg-white border-2 text-black border-black hover:scale-105 duration-500 hover:text-white font-bold p-4 rounded-lg ${
+                      className={`w-full font-bold p-4 rounded-lg ${
                         !isValidForm
-                          ? "text-gray-500 border-gray-600 pointer-events-none"
-                          : ""
+                          ? "bg-gray-500 text-white border-gray-600 pointer-events-none"
+                          : "hover:bg-black bg-white border-2 text-black border-black hover:scale-105 duration-500 hover:text-white"
                       }`}
                       disabled={!isValidForm}
                     >

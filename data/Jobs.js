@@ -31,31 +31,7 @@ const jobs = [
     },
     {
         designation:'Key Account Lead (Health Care Sector)',
-        description:"The Applicant must know:
-
-        a) Person should with 10-12 years of experience in Insurance Industry,  
-        b) Person with an MBA degree preferred
-        c)  Person should have handled Insurance companies as his clients
-        d) Person should have excellent verbal and written communication skills
-        e) Person should understand the working of Insurance companies and products
-        f)  Person should be able to identify more opportunities with the given client and close them
-        g) Responsible for all the projects for the particular client and client satisfaction
-        h) Person should have good connections in the Insurance industry and be able to get more insurance customers  
-        i)  Person needs to demonstrate high energy and go-getter attitude
-        j) Person should be ready to travel to meet existing and potential customers
-        k) Person should be able to suggest new features to our product based on market feedback that will make it more attractive especially to Insurance companies
-        l)  Person needs to develop and maintain contacts with corporates
-        m) Person should be ready to work with monthly/Qtrly sales target
-        n) Needs to be very active on social media and should be able to use it effectively to achieve a specific objective
-        
-        Job profile of Key Account Head 	
-        
-        1. Responsible for all the work/projects happening at the account
-        2. Expand our footprint within the account
-        3. Get another similar account by leveraging the experience in this account
-        4. Interact with other departments in the company to ensure that  customers are happy
-        5. Suggestions to make our product offering more acceptable
-        6. Ensure that targets are met",
+        description:"The Applicant must know: \\n a) Person should with 10-12 years of experience in Insurance Industry, \\n b) Person with an MBA degree preferred \\n c)  Person should have handled Insurance companies as his clients \\n d) Person should have excellent verbal and written communication skills \\n e) Person should understand the working of Insurance companies and products \\n f)  Person should be able to identify more opportunities with the given client and close them \\n g) Responsible for all the projects for the particular client and client satisfaction \\n h) Person should have good connections in the Insurance industry and be able to get more insurance customers \\n i)  Person needs to demonstrate high energy and go-getter attitude \\n j) Person should be ready to travel to meet existing and potential customers \\n k) Person should be able to suggest new features to our product based on market feedback that will make it more attractive especially to Insurance companies \\n l)  Person needs to develop and maintain contacts with corporates \\n m) Person should be ready to work with monthly/Qtrly sales target \\n n) Needs to be very active on social media and should be able to use it effectively to achieve a specific objective \\n Job profile of Key Account Head \\n 1. Responsible for all the work/projects happening at the account \\n 2. Expand our footprint within the account \\n 3. Get another similar account by leveraging the experience in this account \\n 4. Interact with other departments in the company to ensure that  customers are happy \\n 5. Suggestions to make our product offering more acceptable \\n 6. Ensure that targets are met",
         Salary:'7 - 10 Lac(s)',
         location:'All India'
     },
@@ -73,32 +49,7 @@ const jobs = [
     },
     {
         designation:'Business Development Executive - (Software Products)',
-        description:"About the role:
-        We are looking for an MBA Fresher or Graduate with up to 3 years of experience in sales and marketing.
-        
-        About the company:
-        The company is well-established as a Developer and Supplier of an advanced range of Taxation & HR-related software products since 2004. 
-        
-        The work-life of the Executive will be:
-        
-        You’ll be working in a well-established software development house with proven expertise in systems and application Developments 
-        You’ll be handling online as well as field sales
-        Developing a growth strategy focused both on financial gain and customer satisfaction
-        Identify trends and customer needs, building a short/ medium/ long-term sales pipeline in accordance with targets
-        Capable of handling sales-related and technical discussions with potential clients.
-        Develop and sustain solid relationships with customers to encourage repeat business
-        Present, promote, and sell products/services using solid arguments to existing and prospective customers
-        Coordinate sales effort with team members and other departments
-        
-        The applicants must have:
-        
-        Excellent verbal and written communication skills; the ability to call, connect, and interact with potential customers
-        Multitasking abilities & good coordination skills should be outspoken
-        Dynamic, confident, logical attitude & personality
-        Hands-on experience with multiple sales prospecting techniques like cold calling and social outreach would be useful
-        Persuasive and goal-oriented skills
-        Possesses an energetic, outgoing, and friendly demeanor
-        Presentation and negotiation skills.",
+        description:"About the role: \\n We are looking for an MBA Fresher or Graduate with up to 3 years of experience in sales and marketing. \\n About the company: \\n The company is well-established as a Developer and Supplier of an advanced range of Taxation & HR-related software products since 2004. \\n The work-life of the Executive will be: \\n You’ll be working in a well-established software development house with proven expertise in systems and application Developments \\n You’ll be handling online as well as field sales \\n Developing a growth strategy focused both on financial gain and customer satisfaction \\n Identify trends and customer needs, building a short/ medium/ long-term sales pipeline in accordance with targets \\n Capable of handling sales-related and technical discussions with potential clients. \\n Develop and sustain solid relationships with customers to encourage repeat business \\n Present, promote, and sell products/services using solid arguments to existing and prospective customers \\n Coordinate sales effort with team members and other departments \\n The applicants must have: \\n Excellent verbal and written communication skills; the ability to call, connect, and interact with potential customers \\n Multitasking abilities & good coordination skills should be outspoken \\n Dynamic, confident, logical attitude & personality \\n Hands-on experience with multiple sales prospecting techniques like cold calling and social outreach would be useful \\n Persuasive and goal-oriented skills \\n Possesses an energetic, outgoing, and friendly demeanor \\n Presentation and negotiation skills.",
         Salary:'Up-to 6 lac(s)',
         location:'Up-to 6 lac(s)'
     },

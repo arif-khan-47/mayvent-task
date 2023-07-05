@@ -44,7 +44,7 @@ function AboutSection() {
         business growth objectives. Our commitment to excellent client service,
         supported by cutting-edge technology, consistently yields remarkable
         results. Ultimately, we strive to create success stories for our
-        clients' businesses through effective partnerships.
+        client&apos;s businesses through effective partnerships.
       </div>
 
       <div data-aos="zoom-in">
@@ -67,7 +67,7 @@ function AboutSection() {
 
           <div className="justify-center gap-5 flex mt-6 flex-wrap pb-5">
             {icons.map((item, index) => (
-              <div>
+              <div key={index}>
                 <a href={item.link} target="_blank" rel="noopener noreferrer">
                   {item.icon}
                 </a>

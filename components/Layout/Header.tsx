@@ -20,7 +20,7 @@ const data = [
     title:'About'
   },
   {
-    link:'/find-job',
+    link:'/job',
     title:'Find Job'
   },
 ]
@@ -58,7 +58,7 @@ const data = [
           <ul className="list-reset md:flex md:items-center md:gap-6">
             {
               data.map((item, index)=>(
-                <li className="md:ml-4">
+                <li key={index} className="md:ml-4">
                 <Link className="block py-2 text-grey-darkest font-semibold md:text-lg hover:text-red-600 md:border-none md:p-0" href={item.link}>
                   {item.title}
                 </Link>

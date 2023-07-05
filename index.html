@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" type="text/css" href="/styles.css" />
+    <script src="/script.js"></script>
+    <title>Drag and Drop</title>
+  </head>
+  <body>
+    <div class="container">
+      <p id="successMessage" class="hidden">Item dropped successfully!</p>
+      <div id="leftContainer" class="source-container">
+        <div class="list" draggable="true">List Item 1</div>
+        <div class="list" draggable="true">List Item 2</div>
+        <div class="list" draggable="true">List Item 3</div>
+        <div class="list" draggable="true">List Item 4</div>
+      </div>
+      <div id="rightContainer" class="target-container"></div>
+      <button id="resetButton" class="btn">Reset</button>
+    </div>
+  </body>
+</html>

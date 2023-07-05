@@ -30,7 +30,7 @@ function ServiceSection() {
 
             <div data-aos="zoom-in" className="grid lg:grid-cols-5 grid-cols-1 mb-10 mx-10 lg:mx-20 gap-4 lg:gap-10">
               {services.map((item, index) => (
-                <div className="col-span-1"><ServiceCard data={item}/></div>
+                <div key={index} className="col-span-1"><ServiceCard data={item}/></div>
               ))}
             </div>
 
